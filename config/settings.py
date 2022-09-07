@@ -79,7 +79,6 @@ EMAIL_USE_TLS=True
 EMAIL_HOST_USER='nwaforglory6@gmail.com'
 DEFAULT_EMAIL="nwaforglory6@gmail.com"
 EMAIL_HOST_PASSWORD=config('EMAIL_HOST_PASSWORD')
-# EMAIL_HOST_PASSWORD="fkiorfsqwkkjzzch"
 print(EMAIL_HOST_PASSWORD)
 
 
