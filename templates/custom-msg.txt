@@ -1,0 +1,9 @@
+Hello,
+ 
+We received a request to reset the password for your account We received a request to reset the password for your account
+{{ protocol }}://{{ domain }}{% url 'password_reset_confirm' {{ protocol }}://{{ domain }}{% url 'password_reset_confirm'
+This link can only be used once. If you need to reset your p This link can only be used once. If you need to reset your p
+If you did not make this request, you can simply ignore this If you did not make this request, you can simply ignore this
+Sincerely, Sincerely, 
+The Website Team The Website Team 
+ 
